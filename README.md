@@ -53,7 +53,19 @@
 
 ## 📌 주요 기능
 
-### 1.로그인 페이지
+### 0. 푸시알람
+<p>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/c087e5f7-63ac-47f7-a0a2-76785699b13c" width="300"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/4bbf4aa2-0e4b-4182-babb-70b1a69b0dd5" width="300"/>
+</p>
+
+<br>
+<br>
+
+#### 설명
+* 내가 선택한 카드 혜택을 받을 수 있는 매장에 도착하면 알람으로 알려줍니다.
+
+### 1. 로그인 페이지
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/5dbe4642-919b-420d-8466-46e348972f55" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/07b8a54c-38db-40bc-9e12-76bff4eedcad" width="300"/>
@@ -106,14 +118,5 @@
 
 <br>
 <br>
-
-### 6. 푸시알람
-<p>
-  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/c087e5f7-63ac-47f7-a0a2-76785699b13c" width="300"/>
-  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/4bbf4aa2-0e4b-4182-babb-70b1a69b0dd5" width="300"/>
-</p>
-
-#### 설명
-* 내가 선택한 카드 혜택을 받을 수 있는 매장에 도착하면 알람으로 알려줍니다.
 
 
