@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/488e77b4-f33b-4eef-91c9-7ea11b325609" width="270" height="583.34"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/5275c315-1658-49cb-ad6d-3175964f0267" width="270" height="583.34"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/4dce4987-47ca-46f7-a708-57d031effeac" width="270" height="583.34"/>
 </p>
 
 <br><br>
