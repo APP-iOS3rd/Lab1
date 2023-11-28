@@ -39,7 +39,11 @@
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/4dce4987-47ca-46f7-a708-57d031effeac" width="270" height="583.34"/>
 </p>
 
-<br><br>
+<br>
+
+자세한 내용은 [노션](https://forest-porcupine-bd7.notion.site/7e78ce3171f245f190a5efb87a5bc78e?pvs=4)을 참고해 주시면 감사드리겠습니다.
+
+<br>
 
 ## 🕐 프로토타입 제작 기간
 * 23.11.27일 ~ 23.11.29일
@@ -99,5 +103,7 @@
 #### 설명
 * 카드추천 탭에서 사용내역을 기반으로 추천하는 카드 리스트를 볼 수 있습니다.
 * 더보기 탭에서 개인 프로필을 관리할 수 있습니다.
+
+
 
 
