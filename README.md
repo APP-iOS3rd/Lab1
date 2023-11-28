@@ -11,19 +11,19 @@
 <br>
 
 ## 💳 소개
-### 1.프로젝트 필요성
+### 1. 프로젝트 필요성
 * 사람들은 다양한 혜택을 누리기 위해 카드를 사용하지만 대부분 사람들은 본인이 소지하고 있는 카드 혜택을 달달 외우면서 사용하지 않습니다.<br>보통은 알고 있는 혜택만 이용하게 되고 대부분은 어떤 혜택이 있는지 잘 모르거나 혹은 알아도 어디서 혜택을 받을 수 있는지 몰라 누릴 수 있는 혜택을 놓치곤 합니다.
 
 * 카드 브릿지는 이러한 점을 개선하기 위해 자신이 사용하는 카드를 등록하면 카드의 혜택을 한눈에 정리해서 보여주며 지도에 혜택 존을 띄워 받을 수 있는 혜택을 푸시 알람으로 보내드립니다.
 
-### 2.특징
+### 2. 특징
 * 내가 소유한 카드 목록을 손쉽게 관리 할 수 있다.
   
 * 내가 소유한 카드의 혜택을 한눈에 볼 수 있다.
 
 *  혜택을 숙지하고 있지 않아도 푸시 알림과 지도를 통해 혜택을 확인 & 이용할 수 있다.
 
-### 3.기대효과
+### 3. 기대효과
 * 이 어플을 사용하면 그동안 놓치고 있는 다양한 카드 혜택들을 누릴 수 있습니다.<br>또한 푸시 기능을 통해 굳이 어플을 들어가지 않아도 간편하고 손쉽게 혜택을 확인 & 사용할 수 있습니다.
 
 <br><br>
@@ -66,7 +66,7 @@
 <br>
 <br>
 
-### 2.메인 페이지
+### 2. 메인 페이지
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/c2cdcfb6-0b56-4261-82c8-024bcb36745b" width="270" height="583.34"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/aa1a12da-ca6e-4630-82e5-9bb72fa55f68" width="270" height="583.34"/>
@@ -81,7 +81,7 @@
 <br>
 <br>
 
-### 3.즐겨찾기
+### 3. 즐겨찾기
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/5aa8fff4-2126-4163-b69b-f7fc7aa49d32" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/dd84e26c-0ed2-426f-b601-714ce9c8a908" width="300"/>
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-### 4.카드추천 | 5.더보기
+### 4. 카드추천 | 5. 더보기
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/a5c0af5e-1427-422f-a109-a5c2329453cf" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/cc50c836-26a1-4d8d-bbe9-b5dc687ce200)" width="300"/>
