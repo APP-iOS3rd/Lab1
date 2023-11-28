@@ -27,6 +27,8 @@
 * 이 어플을 사용하면 그동안 놓치고 있는 다양한 카드 혜택들을 누릴 수 있습니다.<br>또한 푸시 기능을 통해 굳이 어플을 들어가지 않아도 간편하고 손쉽게 혜택을 확인 & 사용할 수 있습니다.
 
 <br><br>
+ 자세한 내용은 [노션](https://forest-porcupine-bd7.notion.site/7e78ce3171f245f190a5efb87a5bc78e?pvs=4)을 참고해 주시면 감사합니다.
+<br><br>
 
 <p align="center">
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/91b806e7-a432-47c8-99ef-81285e006142" width="270" height="583.34"/>
@@ -40,8 +42,6 @@
 </p>
 
 <br>
-
-자세한 내용은 [노션](https://forest-porcupine-bd7.notion.site/7e78ce3171f245f190a5efb87a5bc78e?pvs=4)을 참고해 주시면 감사드리겠습니다.
 
 <br>
 
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-### 4.카드추천, 5.더보기
+### 4.카드추천 | 5.더보기
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/a5c0af5e-1427-422f-a109-a5c2329453cf" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/cc50c836-26a1-4d8d-bbe9-b5dc687ce200)" width="300"/>
