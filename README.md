@@ -5,6 +5,19 @@
 
 ## 💳 소개
 내가 보유한 모든 카드 혜택를 한눈에 확인하고 알림을 통해 내 주변 어느곳에서 사용가능한지 한눈에 파악이 가능합니다.
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/91b806e7-a432-47c8-99ef-81285e006142" width="270" height="583.34"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/57de17fa-d5fa-4314-965d-f5e95c4bfc60" width="270" height="583.34"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/280ea5c6-be89-42c4-ab86-f70fab3008c7" width="270" height="583.34"/>
+</p>
+<p align="center">
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/488e77b4-f33b-4eef-91c9-7ea11b325609" width="270" height="583.34"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/5275c315-1658-49cb-ad6d-3175964f0267" width="270" height="583.34"/>
+</p>
+
 <br><br>
 
 ## 🕐 프로토타입 제작 기간
