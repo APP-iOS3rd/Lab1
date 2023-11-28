@@ -59,11 +59,11 @@
   <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/4bbf4aa2-0e4b-4182-babb-70b1a69b0dd5" width="300"/>
 </p>
 
-<br>
-<br>
-
 #### 설명
 * 내가 선택한 카드 혜택을 받을 수 있는 매장에 도착하면 알람으로 알려줍니다.
+
+<br>
+<br>
 
 ### 1. 로그인 페이지
 <p>
