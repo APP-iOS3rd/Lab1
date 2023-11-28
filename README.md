@@ -49,7 +49,7 @@
 * 23.11.27일 ~ 23.11.29일
 
 ### ⚙️ 제작 환경
-- `Figma`
+- [`Figma`](https://www.figma.com/proto/01jHmcqh7f3sfZZLTpXTVL/Untitled?page-id=0%3A1&type=design&node-id=70-885&viewport=624%2C167%2C0.6&t=gIzuO1lLS4d4A23L-1&scaling=scale-down&starting-point-node-id=70%3A885&mode=design)
 
 ## 📌 주요 기능
 
