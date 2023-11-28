@@ -43,7 +43,7 @@
 <br>
 <br>
 
-### 2.즐겨찾기
+### 3.즐겨찾기
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/5aa8fff4-2126-4163-b69b-f7fc7aa49d32" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/dd84e26c-0ed2-426f-b601-714ce9c8a908" width="300"/>
@@ -52,5 +52,18 @@
 #### 설명
 * 즐겨찾기 탭에서 자주이용하는 카드를 볼 수 있습니다.
 * 화살표 버튼을 통해 카드의 세부 혜택 내역 및 주의 사항(전월실적 등)을 확인할 수 있습니다.
+
+<br>
+<br>
+
+### 4.카드추천, 5.더보기
+<p>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/a5c0af5e-1427-422f-a109-a5c2329453cf" width="300"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/cc50c836-26a1-4d8d-bbe9-b5dc687ce200)" width="300"/>
+</p>
+
+#### 설명
+* 카드추천 탭에서 사용내역을 기반으로 추천하는 카드 리스트를 볼 수 있습니다.
+* 더보기 탭에서 개인 프로필을 관리할 수 있습니다.
 
 
