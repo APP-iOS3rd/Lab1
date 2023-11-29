@@ -55,8 +55,8 @@
 
 ### 0. 푸시알람
 <p>
-  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/c087e5f7-63ac-47f7-a0a2-76785699b13c" width="300"/>
-  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/4bbf4aa2-0e4b-4182-babb-70b1a69b0dd5" width="300"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/d9f37e7a-09dc-42cf-a68e-4b8f02cc8b25" width="300" height="650.3816"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/92f217ee-ea64-4e9f-885c-f730946a7814" width="300" height="650.3816"/>
 </p>
 
 #### 설명
