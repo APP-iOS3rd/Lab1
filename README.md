@@ -82,7 +82,10 @@
 <p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/c2cdcfb6-0b56-4261-82c8-024bcb36745b" width="270" height="583.34"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/aa1a12da-ca6e-4630-82e5-9bb72fa55f68" width="270" height="583.34"/>
+</p>
+<p>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/206a9190-114e-4844-a877-4f53964d3376" width="270" height="583.34"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/43903354/0e95a121-9140-4cbe-9891-e306a43410a6" width="270" height="583.34"/>
 </p>
 
 #### 설명
