@@ -108,7 +108,7 @@
 
 ### 4. 카드추천 | 5. 더보기
 <p>
-  <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/a5c0af5e-1427-422f-a109-a5c2329453cf" width="300"/>
+  <img src="https://github.com/APP-iOS3rd/Lab1/assets/112779139/efa55c3d-6501-40df-b524-6ec4c6c6fb25" width="300"/>
   <img src="https://github.com/APP-iOS3rd/Lab1Prototype/assets/43903354/cc50c836-26a1-4d8d-bbe9-b5dc687ce200)" width="300"/>
 </p>
 
